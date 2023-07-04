@@ -1,0 +1,8 @@
+C:\Users\serka\OneDrive\Masaüstü\c#2023\biyoinformatikFinalProjesi\biyoinformatikFinalProjesi\bin\Debug\biyoinformatikFinalProjesi.exe.config
+C:\Users\serka\OneDrive\Masaüstü\c#2023\biyoinformatikFinalProjesi\biyoinformatikFinalProjesi\bin\Debug\biyoinformatikFinalProjesi.exe
+C:\Users\serka\OneDrive\Masaüstü\c#2023\biyoinformatikFinalProjesi\biyoinformatikFinalProjesi\bin\Debug\biyoinformatikFinalProjesi.pdb
+C:\Users\serka\OneDrive\Masaüstü\c#2023\biyoinformatikFinalProjesi\biyoinformatikFinalProjesi\obj\Debug\biyoinformatikFinalProjesi.csproj.AssemblyReference.cache
+C:\Users\serka\OneDrive\Masaüstü\c#2023\biyoinformatikFinalProjesi\biyoinformatikFinalProjesi\obj\Debug\biyoinformatikFinalProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\serka\OneDrive\Masaüstü\c#2023\biyoinformatikFinalProjesi\biyoinformatikFinalProjesi\obj\Debug\biyoinformatikFinalProjesi.csproj.CoreCompileInputs.cache
+C:\Users\serka\OneDrive\Masaüstü\c#2023\biyoinformatikFinalProjesi\biyoinformatikFinalProjesi\obj\Debug\biyoinformatikFinalProjesi.exe
+C:\Users\serka\OneDrive\Masaüstü\c#2023\biyoinformatikFinalProjesi\biyoinformatikFinalProjesi\obj\Debug\biyoinformatikFinalProjesi.pdb
